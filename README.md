@@ -1,2 +1,3 @@
-# Cloudlingo
-Translation from english to french using AWS, Terraform (Iac)
+# CloudLingo - AWS Translation Service
+
+## Project Structure
